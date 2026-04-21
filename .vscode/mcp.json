@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "cavemem": {
+      "command": "E:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "F:\\Node_22\\npm_global\\node_modules\\cavemem\\dist\\index.js",
+        "mcp"
+      ]
+    }
+  }
+}
